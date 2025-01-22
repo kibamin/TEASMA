@@ -19,7 +19,7 @@ Follow these steps to reproduce the experiment's results of RQ1, RQ2, and RQ3:
 
 1. Download the `TEASMA.zip` file from this repository.
 2. Extract the contents of the downloaded zip file to your local machine.
-3. Navigate to the root directory of the extracted package: (full output_results data are available ![here](https://figshare.com/account/projects/212144/articles/26183348))
+3. Navigate to the root directory of the extracted package: (full output_results data are available (![here](https://figshare.com/s/fe3c9a593c110786027b)))
 
     ```bash
     cd {path_to_root_directory}/output_results
