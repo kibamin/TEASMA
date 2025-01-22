@@ -1,4 +1,5 @@
-# Replication Package for "TEASMA: A Practical Methodology for Test Adequacy Assessment of Deep Neural Networks"
+## Replication Package for "TEASMA: A Practical Methodology for Test Adequacy Assessment of Deep Neural Networks"
+["TEASMA: A Practical Methodology for Test Adequacy Assessment of Deep Neural Networks"](https://ieeexplore.ieee.org/document/10720834)
 
 ## Introduction
 
@@ -136,4 +137,5 @@ Running the full replication package requires more dependencies. Install the `rq
 - [Evaluating Surprise Adequacy for Deep Learning System Testing](https://github.com/coinse/sadl)
 - [DNN-TIP: Common Test Input Prioritizers Library](https://github.com/testingautomated-usi/dnn-tip)
 - [Black-Box Testing of Deep Neural Networks through Test Case Diversity](https://github.com/zohreh-aaa/DNN-Testing/tree/main) 
+
 
