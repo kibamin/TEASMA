@@ -1,5 +1,5 @@
-## Replication Package for "TEASMA: A Practical Methodology for Test Adequacy Assessment of Deep Neural Networks"
-["TEASMA: A Practical Methodology for Test Adequacy Assessment of Deep Neural Networks"](https://ieeexplore.ieee.org/document/10720834)
+## Replication Package for ["TEASMA: A Practical Methodology for Test Adequacy Assessment of Deep Neural Networks"](https://ieeexplore.ieee.org/document/10720834)
+
 
 ## Introduction
 
