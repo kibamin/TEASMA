@@ -138,4 +138,19 @@ Running the full replication package requires more dependencies. Install the `rq
 - [DNN-TIP: Common Test Input Prioritizers Library](https://github.com/testingautomated-usi/dnn-tip)
 - [Black-Box Testing of Deep Neural Networks through Test Case Diversity](https://github.com/zohreh-aaa/DNN-Testing/tree/main) 
 
+## Citation
+
+If you use this work, please cite:
+
+```bibtex
+@ARTICLE{10720834,
+  author={Abbasishahkoo, Amin and Dadkhah, Mahboubeh and Briand, Lionel and Lin, Dayi},
+  journal={IEEE Transactions on Software Engineering}, 
+  title={TEASMA: A Practical Methodology for Test Adequacy Assessment of Deep Neural Networks}, 
+  year={2024},
+  volume={50},
+  number={12},
+  pages={3307-3329},
+  keywords={Measurement;Training;Artificial neural networks;Predictive models;Accuracy;Testing;Analytical models;Fault detection;Correlation;Computational modeling;Deep neural network;test assessment;test adequacy metrics},
+  doi={10.1109/TSE.2024.3482984}}
 
