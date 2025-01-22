@@ -1,0 +1,7 @@
+
+Download mutants.zip and extract here it include directories: cifar10, equivalnet_mutants, lenet4, lenet5_mnist, lenet5_SVHN, resnet20_cifar10
+Download resnet152_cifar100.zip and extract into `mutants` 
+Download vgg16_SVHN.tar.gz and extract into `mutants` 
+Download inceptionV3_imagenet.zip and extract into `mutants` 
+
+Download mutant_prediction_outputs.zip and extract into `mutants` 

@@ -1,0 +1,12 @@
+tensorflow==2.12.0 # or tensorflow-gpu==2.4.1
+tensorflow_datasets==4.9.2
+scikit_image==0.19.3
+scikit_learn==1.2.1
+numpy==1.24.2
+hdbscan==0.8.29
+umap_learn==0.5.3
+tslearn==0.5.3.2
+tqdm==4.65.0
+statsmodels==0.13.5
+matplotlib==3.7.0
+numpy==1.24.2

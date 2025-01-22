@@ -1,0 +1,4 @@
+
+Download output.zip and extract here it include to directories: fault_clusters, mispredicteds
+
+download inceptionV3_imagenet.zip and extract into mispredicteds/inceptionV3_imagenet 

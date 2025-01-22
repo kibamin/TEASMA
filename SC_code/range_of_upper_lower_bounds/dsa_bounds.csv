@@ -1,0 +1,8 @@
+,subject,DSA_train_lb,DSA_train_ub,DSA_test_lb,DSA_test_ub,DSA_test_within
+0,lenet5_mnist,0.07,2.44,0.09,2.45,9999
+1,cifar10,0.12,1.93,0.13,2.02,9999
+2,lenet4,0.01,2.66,0.03,2.32,10000
+3,resnet20_cifar10,0.09,1.96,0.1,2.15,9999
+4,lenet5_SVHN,0.0,3.72,0.23,3.34,26032
+5,vgg16_SVHN,0.0,3.23,0.0,3.79,26031
+6,resnet152_cifar100,0.0,4.45,0.0,3.72,10000
